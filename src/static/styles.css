@@ -79,6 +79,7 @@ section h3 {
   padding-left: 20px;
   margin-top: 10px;
   color: #555;
+  font-size: 14px; /* Adjust font size for better readability */
 }
 
 .form-group {
